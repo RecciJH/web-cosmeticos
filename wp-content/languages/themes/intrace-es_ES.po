@@ -1,0 +1,583 @@
+# Translation of Themes - Intrace in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Intrace package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-19 16:23:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Intrace\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Intrace is an elegant and simple designed theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Intrace’s created especially for Interior Designer, Architecture, Real Estate and Furniture Designer websites. This template has a beautiful and unique design with a 100% responsive and easy to customize layout. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient."
+msgstr "Intrace es un tema para WordPress de diseño elegante y sencillo, para la edición completa del sitio en WordPress y totalmente compatible con el plugin Gutenverse. Intrace ha sido creado especialmente para  webs de diseñadores de interiores, arquitectos, inmobiliarias y diseñadores de mobiliario. Esta plantilla tiene un bonito diseño único, adaptable al 100% y con un diseño fácil de personalizar. Las plantillas incluyen tanto la versión para núcleo, como la versión para el plugin Gutenverse y dispone también de patrones de bloques preparados de forma que puedes mezclar y ajustar las partes de tu plantilla como desees.  Las plantillas ya están construidas, por lo tanto, no necesitas construir desde cero. Queremos que tu experiencia de uso del editor completo de sitio WordPress sea más cómoda."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Intrace"
+msgstr "Intrace"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Basic Template"
+msgstr "Plantilla básica"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr "Lienzo en blanco"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr "Encabezado 6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr "Encabezado 5"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr "Encabezado 4"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr "Encabezado 3"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr "Encabezado 2"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1 Alt"
+msgstr "Encabezado 1 Alt"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr "Encabezado 1"
+
+#: inc/patterns/gutenverse-services-cta.php:6
+msgid "Gutenverse Services CTA"
+msgstr "Gutenverse Servicios CTA"
+
+#: inc/patterns/gutenverse-projects-feature.php:6
+msgid "Gutenverse Projects Feature"
+msgstr "Gutenverse Proyectos Característica"
+
+#: inc/patterns/gutenverse-projects-cta.php:6
+msgid "Gutenverse Projects CTA"
+msgstr "Gutenverse Proyectos CTA"
+
+#: inc/patterns/gutenverse-project-detail-feature.php:6
+msgid "Gutenverse Project Detail Feature"
+msgstr "Gutenverse Proyecto Característica destacada"
+
+#: inc/patterns/gutenverse-project-detail-feature-2.php:6
+msgid "Gutenverse Project Detail Feature 2"
+msgstr "Gutenverse Proyecto Característica destacada 2"
+
+#: inc/patterns/gutenverse-project-detail-cta.php:6
+msgid "Gutenverse Project Detail CTA"
+msgstr "Gutenverse Proyecto CTA de detalle"
+
+#: inc/patterns/gutenverse-home-services-2.php:6
+msgid "Gutenverse Home Services 2"
+msgstr "Gutenverse Portada Servicios 2"
+
+#: inc/patterns/gutenverse-home-pricing.php:6
+msgid "Gutenverse Home Pricing"
+msgstr "Gutenverse Precios de inicio"
+
+#: inc/patterns/gutenverse-home-funfact.php:6
+msgid "Gutenverse Home Fun Fact"
+msgstr "Gutenverse Portada Hecho gracioso"
+
+#: inc/patterns/gutenverse-home-feature-2.php:6
+#: inc/patterns/gutenverse-home-feature.php:6
+msgid "Gutenverse Home Feature"
+msgstr "Gutenverse característica de inicio"
+
+#: inc/patterns/gutenverse-home-cta.php:6
+msgid "Gutenverse Home CTA"
+msgstr "Gutenverse Portada CTA"
+
+#: inc/patterns/gutenverse-home-about-2.php:6
+msgid "Gutenverse Home About 2"
+msgstr "Gutenverso Portada acerca de 2"
+
+#: inc/patterns/gutenverse-contact-us.php:6
+msgid "Gutenverse Contact Us"
+msgstr "Gutenverse Contacto"
+
+#: inc/patterns/gutenverse-contact-us-cta.php:6
+msgid "Gutenverse Contact Us CTA"
+msgstr "Gutenverse Contacto CTA"
+
+#: inc/patterns/gutenverse-archive-cta.php:6
+msgid "Gutenverse Archive CTA"
+msgstr "Gutenverse Archivo CTA"
+
+#: inc/patterns/gutenverse-about-feature-2.php:6
+#: inc/patterns/gutenverse-about-feature-3.php:6
+msgid "Gutenverse About Feature 2"
+msgstr "Gutenverse Acerca de Característica 2"
+
+#: inc/patterns/gutenverse-about-cta.php:6
+#: inc/patterns/gutenverse-about-feature.php:6
+msgid "Gutenverse About Feature"
+msgstr "Gutenverse Acerca de Característica"
+
+#: inc/class/class-upgrader.php:350
+msgid "Got Question?"
+msgstr "¿Tienes alguna pregunta?"
+
+#: inc/class/class-upgrader.php:345
+msgid "this page."
+msgstr "esta página."
+
+#: inc/class/class-upgrader.php:344
+msgid " dashboard. Learn more about new layout on "
+msgstr " escritorio. Más información sobre el nuevo diseño en "
+
+#: inc/class/class-upgrader.php:343
+msgid "Gutenverse settings."
+msgstr "Ajustes de Gutenverse."
+
+#: inc/class/class-upgrader.php:342
+msgid " to see how the new layout looks on your site. You can always revert back by enable the inherit layout option on the "
+msgstr " para ver cómo queda el nuevo diseño en tu sitio. Siempre puedes volver atrás activando la opción de heredar diseño en el botón "
+
+#: inc/class/class-upgrader.php:341
+msgid "your pages"
+msgstr "tus páginas"
+
+#: inc/class/class-upgrader.php:340
+msgid "We've made some changes to page content layout and global style. Please check "
+msgstr "Hemos hecho algunos cambios en el diseño del contenido de la página y en el estilo global. Por favor, comprueba "
+
+#: inc/class/class-upgrader.php:308 inc/class/class-upgrader.php:348
+msgid "Close notification"
+msgstr "Cerrar el aviso"
+
+#: inc/class/class-upgrader.php:304
+msgid "Go to plugin page"
+msgstr "Ir a la página del plugin"
+
+#: inc/class/class-upgrader.php:298
+msgid "There are some new exciting updates we want to announce. This update will required the latest version of Gutenverse plugin to work smoothly, so we recommend to update your Gutenverse plugin."
+msgstr "Hay algunas actualizaciones interesantes que queremos anunciar. Esta actualización requerirá la última versión del plugin Gutenverse para funcionar sin problemas, por lo que te recomendamos que actualices tu plugin Gutenverse."
+
+#: inc/class/class-upgrader.php:296 inc/class/class-upgrader.php:338
+msgid "%s Upgrade Notice!"
+msgstr "¡Aviso de actualización de %s!"
+
+#: inc/class/class-upgrader.php:230 inc/class/class-upgrader.php:256
+msgid "Fix Issue"
+msgstr "Solucionar el problema"
+
+#: inc/class/class-upgrader.php:226
+msgid "resetting the template."
+msgstr "restablecer la plantilla."
+
+#: inc/class/class-upgrader.php:225
+msgid "This process will copy the content of your Index template to your Front Page template. You can always revert back to default front page by "
+msgstr "Este proceso copiará el contenido de tu plantilla Índice a tu plantilla Página de Inicio. Siempre puedes volver a la página de inicio predeterminada de la siguiente manera "
+
+#: inc/class/class-upgrader.php:224
+msgid "This issue only happened for Front Page, any change you made elsewhere are still intact."
+msgstr "Este problema sólo se ha producido en la página de inicio, cualquier cambio que hayas hecho en otro lugar sigue intacto."
+
+#: inc/class/class-upgrader.php:223
+msgid "Check your front page (from top to bottom), if your front page looks different than before, please click \"Fix Issue\" button below."
+msgstr "Comprueba tu página de inicio (de arriba a abajo), si tu página de inicio tiene un aspecto diferente al anterior, haz clic en el botón «Solucionar el problema» de abajo."
+
+#: inc/class/class-upgrader.php:220
+msgid "We notice you are upgrading from old theme. If you have issue with data lost on your front page, please proceed with upgrading process below."
+msgstr "Nos hemos dado cuenta de que estás actualizando desde un tema antiguo. Si tienes problemas con la pérdida de datos en la página principal, sigue el proceso de actualización que se indica a continuación."
+
+#: inc/class/class-upgrader.php:215 inc/class/class-upgrader.php:231
+msgid "I don't have the issue"
+msgstr "No tengo el problema"
+
+#: inc/class/class-upgrader.php:212
+msgid "After resetting, please refresh this page."
+msgstr "Después de restablecer, actualiza esta página."
+
+#: inc/class/class-upgrader.php:210
+msgid "But don't reset the Index template."
+msgstr "Pero no restablecer la plantilla Índice."
+
+#: inc/class/class-upgrader.php:209
+msgid "reset the Front Page template."
+msgstr "restablecer la plantilla de la portada."
+
+#: inc/class/class-upgrader.php:208
+msgid "If you sure you are having this issue, you can"
+msgstr "Si estás seguro de que tienes este problema, puedes"
+
+#: inc/class/class-upgrader.php:207
+msgid "Before resetting, please make sure you back up your changes of Front Page template first."
+msgstr "Antes de restablecer, por favor, asegúrate primero de hacer una copia de seguridad de los cambios de la plantilla de portada."
+
+#: inc/class/class-upgrader.php:206 inc/class/class-upgrader.php:222
+msgid "Please visit site editor page."
+msgstr "Visita la página del editor del sitio."
+
+#: inc/class/class-upgrader.php:204
+msgid "We notice you are upgrading from old theme and also have updated your Front Page. If previously you have issue with data lost on your home page, please proceed with upgrading process below."
+msgstr "Hemos observado que estás actualizando tu antiguo tema y que también has actualizado tu página de inicio. Si previamente has tenido problemas con la pérdida de datos en tu página de inicio, por favor procede con el proceso de actualización a continuación."
+
+#: inc/class/class-upgrader.php:199
+msgid "Upgrade Notice!"
+msgstr "¡Aviso de actualización!"
+
+#: inc/class/class-upgrader.php:199
+msgid "Important"
+msgstr "Importante˙"
+
+#: inc/class/class-upgrader.php:93
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: inc/class/class-upgrader.php:84
+msgid "Front Page exist. If you want migrate index, please clear Front Page customization."
+msgstr "Portada existe. Si quieres migrar el índice, borra la personalización de Front Page."
+
+#: inc/patterns/gutenverse-single-post-hero.php:6
+msgid "Gutenverse Single Post Hero"
+msgstr "Gutenverse Entrada individual Hero"
+
+#: inc/patterns/gutenverse-search-hero.php:6
+msgid "Gutenverse Search Hero"
+msgstr "Gutenverse Hero de la Búsqueda"
+
+#: inc/patterns/gutenverse-page-hero.php:6
+msgid "Gutenverse Page Hero"
+msgstr "Gutenverse Hero de página"
+
+#: inc/patterns/gutenverse-index-hero.php:6
+msgid "Gutenverse Index Hero"
+msgstr "Gutenverse Hero de índice"
+
+#: inc/patterns/gutenverse-archive-hero.php:6
+msgid "Gutenverse Archive Hero"
+msgstr "Gutenverse Hero de archivo"
+
+#: inc/patterns/gutenverse-404-hero.php:6
+msgid "Gutenverse 404 Hero"
+msgstr "Gutenverse Hero de 404"
+
+#: inc/patterns/core-search-hero.php:6
+msgid "Core Search Hero"
+msgstr "Núcleo Búsqueda Hero"
+
+#: inc/patterns/core-index-services.php:6
+msgid "Core Home Services"
+msgstr "Núcleo Portada Servicios"
+
+#: inc/patterns/core-index-pricing.php:6
+msgid "Core Home Pricing"
+msgstr "Núcleo Portada Precios"
+
+#: inc/patterns/core-index-hero.php:6
+msgid "Core Home Hero"
+msgstr "Núcleo Portada Hero"
+
+#: inc/patterns/core-archive-hero.php:6
+msgid "Core Archive Hero"
+msgstr "Núcleo Archivo Hero"
+
+#: inc/class/class-init.php:918
+msgid "Check it Now!"
+msgstr "¡Compruébalo ahora!"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Pink to Yellow"
+msgstr "De rosa a amarillo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border 2"
+msgstr "Borde 2"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr "Borde"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body/Text 2"
+msgstr "Cuerpo/texto 2"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body/Text"
+msgstr "Cuerpo/texto"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Acento"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Heebo"
+msgstr "Heebo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr "Lato"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigante"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Minúsculo"
+
+#: index.php:4
+msgid "This theme was built for the WordPress full-site-editing feature. If you use WordPress below version 5.9, you need to install and activate the Gutenberg plugin to make it work. "
+msgstr "Este tema se ha creado para la función de edición completa de WordPress. Si utilizas WordPress por debajo de la versión 5.9, necesitas instalar y activar el plugin Gutenberg para que funcione. "
+
+#: inc/patterns/gutenverse-services-testimonials.php:6
+msgid "Gutenverse Services Testimonials"
+msgstr "Gutenverse Servicios Testimonios"
+
+#: inc/patterns/gutenverse-services-section-3.php:6
+msgid "Gutenverse Services Section 3"
+msgstr "Gutenverse Servicios Sección 3"
+
+#: inc/patterns/gutenverse-services-section-2.php:6
+msgid "Gutenverse Services Section 2"
+msgstr "Gutenverse Servicios Sección 2"
+
+#: inc/patterns/gutenverse-projects-gallery.php:6
+msgid "Gutenverse Projects Gallery"
+msgstr "Gutenverse Proyectos Galería"
+
+#: inc/patterns/gutenverse-project-detail-section-2.php:6
+msgid "Gutenverse Project Detail Section"
+msgstr "Gutenverse Proyecto Sección de detalle"
+
+#: inc/patterns/gutenverse-home-services.php:6
+msgid "Gutenverse Home Services"
+msgstr "Gutenverse Servicios de inicio"
+
+#: inc/patterns/gutenverse-home-section-2.php:6
+msgid "Gutenverse Home Section 2"
+msgstr "Gutenverse Portada Sección 2"
+
+#: inc/patterns/gutenverse-home-hero.php:6
+msgid "Gutenverse Home Hero"
+msgstr "Gutenverse Portada Hero"
+
+#: inc/patterns/gutenverse-home-client-logo.php:6
+msgid "Gutenverse Home Client Logo"
+msgstr "Gutenverse Portada Logo de cliente"
+
+#: inc/patterns/gutenverse-home-about.php:6
+msgid "Gutenverse Home About"
+msgstr "Gutenverse Portada Acerca de"
+
+#: inc/patterns/gutenverse-hero-services.php:6
+msgid "Gutenverse Hero Services"
+msgstr "Gutenverse Portada Servicios"
+
+#: inc/patterns/gutenverse-hero-projects.php:6
+msgid "Gutenverse Hero Projects"
+msgstr "Gutenverse Portada Proyectos"
+
+#: inc/patterns/gutenverse-hero-project-detail.php:6
+msgid "Gutenverse Hero Project Details"
+msgstr "Gutenverse Hero Detalles de proyecto"
+
+#: inc/patterns/gutenverse-hero-contact-us.php:6
+msgid "Gutenverse Hero Contact Us"
+msgstr "Gutenverse Hero Contacto"
+
+#: inc/patterns/gutenverse-hero-about-us.php:6
+msgid "Gutenverse Hero About Us"
+msgstr "Gutenverse Hero Sobre nosotros"
+
+#: inc/patterns/gutenverse-header.php:6
+msgid "Gutenverse Header"
+msgstr "Gutenverse Cabecera"
+
+#: inc/patterns/gutenverse-footer.php:6
+msgid "Gutenverse Footer"
+msgstr "Gutenverse Pie de página"
+
+#: inc/patterns/gutenverse-about-section-2.php:6
+msgid "Gutenverse About Section"
+msgstr "Gutenverse Acerca de Sección"
+
+#: inc/patterns/core-index-services-2.php:6
+msgid "Core Home Services 2"
+msgstr "Núcleo Portada Servicios 2"
+
+#: inc/patterns/core-index-hero-2.php:6
+msgid "Core Index Hero"
+msgstr "Núcleo Índice Hero"
+
+#: inc/patterns/core-index-group-2.php:6
+msgid "Core Index Group"
+msgstr "Núcleo Índice Grupo"
+
+#: inc/patterns/core-index-client-logo.php:6
+msgid "Core Index Client Logo"
+msgstr "Núcleo Índice Logo de cliente"
+
+#: inc/patterns/core-index-about.php:6
+msgid "Core Index About"
+msgstr "Núcleo Índice Acerca de"
+
+#: inc/patterns/core-hero-single-post.php:6
+msgid "Core Single Post Hero"
+msgstr "Núcleo Entrada individual hero"
+
+#: inc/patterns/core-hero-page.php:6
+msgid "Core Page Hero"
+msgstr "Núcleo Página Hero"
+
+#: inc/patterns/core-hero-page-not-found.php:6
+msgid "Core 404 Hero"
+msgstr "Núcleo 404 Hero"
+
+#: inc/patterns/core-header.php:6
+msgid "Core Header"
+msgstr "Núcleo Cabecera"
+
+#: inc/patterns/core-footer.php:6
+msgid "Core Footer"
+msgstr "Núcleo Pie de página"
+
+#: inc/class/class-init.php:1068
+msgid "Primary"
+msgstr "Principal"
+
+#: inc/class/class-init.php:1038
+msgid "Please install newer version of Gutenverse plugin! (v1.1.2 and above)"
+msgstr "¡Por favor, instala una versión más reciente del plugin Gutenverse! (v1.1.2 y superior)"
+
+#: inc/class/class-init.php:1006
+msgid "More Info"
+msgstr "Más información"
+
+#: inc/class/class-init.php:1000
+msgid "Intrace theme work best with Gutenverse plugin. By installing Gutenverse plugin you may access Intrace templates built with Gutenverse and get access to more than 40 free blocks."
+msgstr "El tema Intrace funciona mejor con el plugin Gutenverse. Instalando el plugin Gutenverse puedes acceder a las plantillas Intrace creadas con Gutenverse y obtener acceso a más de 40 bloques gratuitos."
+
+#: inc/class/class-init.php:999
+msgid "Thank you for installing Intrace!"
+msgstr "¡Gracias por instalar Intrace!"
+
+#: inc/class/class-block-styles.php:157 inc/class/class-block-styles.php:165
+#: inc/class/class-block-styles.php:173
+msgid "Border Bottom Hover"
+msgstr "Borde inferior al pasar"
+
+#: inc/class/class-block-styles.php:133 inc/class/class-block-styles.php:141
+#: inc/class/class-block-styles.php:149
+msgid "Border Bottom"
+msgstr "Borde inferior"
+
+#: inc/class/class-block-styles.php:109 inc/class/class-block-styles.php:117
+#: inc/class/class-block-styles.php:125 inc/class/class-block-styles.php:181
+msgid "Border Hover"
+msgstr "Borde al pasar"
+
+#: inc/class/class-block-styles.php:85 inc/class/class-block-styles.php:93
+#: inc/class/class-block-styles.php:101
+msgid "Box Shadow on Hover"
+msgstr "Sombra de caja al pasar"
+
+#: inc/class/class-block-styles.php:61 inc/class/class-block-styles.php:69
+#: inc/class/class-block-styles.php:77
+msgid "Box Shadow"
+msgstr "Sombra de caja"
+
+#: inc/class/class-block-styles.php:53
+msgid "Line Separator"
+msgstr "Separador de línea"
+
+#: inc/class/class-block-styles.php:45
+msgid "Button with Fill & Border Hover"
+msgstr "Botón con relleno y borde al pasar"
+
+#: inc/class/class-block-styles.php:37
+msgid "Button with Border & Fill Hover"
+msgstr "Botón con borde y relleno al pasar"
+
+#: inc/class/class-block-patterns.php:40
+msgid "Intrace Gutenverse Patterns"
+msgstr "Patrones de Intrace de Gutenverse"
+
+#: inc/class/class-block-patterns.php:36
+msgid "Intrace Basic Patterns"
+msgstr "Patrones de Intrace básicos"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://gutenverse.com"
+msgstr "https://gutenverse.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Jegstudio"
+msgstr "Jegstudio"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://gutenverse.com/intrace-theme"
+msgstr "https://gutenverse.com/intrace-theme"

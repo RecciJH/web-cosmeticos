@@ -1,0 +1,4 @@
+[07-Sep-2023 02:02:59 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/rechiweb/cosmeticosrechi.rechiwebs.com/wp-includes/class-wp-image-editor-imagick.php on line 427
+[07-Sep-2023 02:03:06 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/rechiweb/cosmeticosrechi.rechiwebs.com/wp-includes/class-wp-image-editor-imagick.php on line 438
+[07-Sep-2023 02:03:41 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/rechiweb/cosmeticosrechi.rechiwebs.com/wp-includes/class-wp-image-editor-imagick.php on line 438
+[08-Sep-2023 20:44:15 UTC] PHP Warning:  Undefined array key "elementId" in /home4/rechiweb/cosmeticosrechi.rechiwebs.com/wp-content/plugins/gutenverse/includes/block/class-nav-menu.php on line 26
